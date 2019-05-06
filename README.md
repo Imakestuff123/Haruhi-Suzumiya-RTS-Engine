@@ -24,10 +24,10 @@ The Melancholy of Haruhi Suzumiya - The anime which I got the idea for this game
 
 ## Controls
 
-w, a, s, d - all control the camera
-shift - holding shift while moving the camera causes it to move faster
-left click - select a ship
-right click - direct a ship to move to a specific area, or combine with another fleet after selecting it
-ctrl + num - Binds a specific fleet to a number, allowing you to select them by pressing numbers, without clicking
-num - Select a ship that you binded a specific number to
-shift + num - Move your camera to the ship which you binded the number to, and select said ship
+- w, a, s, d - all control the camera
+- shift - holding shift while moving the camera causes it to move faster
+- left click - select a ship
+- right click - direct a ship to move to a specific area, or combine with another fleet after selecting it
+- ctrl + num - Binds a specific fleet to a number, allowing you to select them by pressing numbers, without clicking
+- num - Select a ship that you binded a specific number to
+- shift + num - Move your camera to the ship which you binded the number to, and select said ship
