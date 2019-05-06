@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PathManager
+comment1.params=main\ x\ y\ Keyboard\ Mouse\ color\ startx\ starty\ endx\ endy
+comment1.target=PathManager(MainManager,\ int,\ int,\ KeyboardInput,\ MouseInput,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ createstep()
+comment3.params=
+comment3.target=void\ setupstep()
+comment4.params=
+comment4.target=void\ step()
+comment5.params=g\ g2
+comment5.target=void\ drawstep(java.awt.Graphics,\ java.awt.Graphics2D)
+comment6.params=
+comment6.target=void\ DeleteSelf()
+numComments=7
